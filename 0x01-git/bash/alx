@@ -1,4 +1,5 @@
-echo
-#!/bin/bash
+:wq
+
 ALX
-echo ALX
+wq
+::echo ALX
