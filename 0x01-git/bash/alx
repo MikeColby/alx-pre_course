@@ -1,2 +1,4 @@
+echo
 #!/bin/bash
-echo "ALX"
+ALX
+echo ALX
