@@ -1,5 +1,2 @@
-:wq
-
-ALX
-wq
-::echo ALX
+#!/bin/bash
+echo "ALX"
